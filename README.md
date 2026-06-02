@@ -1,19 +1,17 @@
-<div align="center">
-  <div>
-    <a href="https://git.io/typing-svg">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=500&pause=5000&color=1FA0F7&repeat=false&width=435&lines=Hello,+I'm+Congee+%F0%9F%91%8B;Front-End+Developer" 
-        alt="Typing SVG" 
-      />
-    </a>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=500&pause=5000&color=1FA0F7&repeat=false&center=true&vCenter=true&width=435&lines=Hello,+I'm+Congee+%F0%9F%91%8B;Front-End+Developer"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,nodejs,express,mongodb,jest" />
-  <br/>
 </div>
 
 <br><br>
@@ -21,7 +19,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,mysql,aws,gcp,azure" />
-  <br/>
 </div>
 
 <br><br>
@@ -44,13 +41,3 @@
 </div>
 
 <br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeHyun10-03&show_icons=true&theme=radical"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyun10-03&layout=compact" />
-</div>
