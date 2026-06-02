@@ -1,10 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=500&pause=5000&color=1FA0F7&repeat=false&width=435&lines=Hello,+I'm+Congee+%F0%9F%91%8B;Front-End+Developer" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=500&pause=5000&color=1FA0F7&repeat=false&width=435&lines=Hello,+I'm+Congee+%F0%9F%91%8B;Front-End+Developer" 
+        alt="Typing SVG" 
+      />
+    </a>
 </div>
 
 <br>
