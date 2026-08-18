@@ -1,43 +1,31 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=500&pause=5000&color=1FA0F7&repeat=false&center=true&vCenter=true&width=435&lines=Hello,+I'm+Congee+%F0%9F%91%8B;Front-End+Developer"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<h3 align="left">Project</h3>
 
-<br>
+* 2024.11~2024.12 : 데이트 코스 공유 플랫폼 개발
+* 2025.03~2025.06 : 학생 성적 및 상담 관리 시스템 개발
+* 2025.03~2025.07 : 모여서 캠키고 프로젝트(모캠프) 웹 서비스 개발
+* 2025.11~2025.05 : 과실비율 과실판단 AI Acci 웹 서비스 개발
+* 2025.07~2025.09 : 은행 코어 뱅킹 시스템 개발
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,nodejs,express,mongodb,jest" />
-</div>
+<h3 align="left">Certificate</h3>
 
-<br><br>
+* 2026.09 : 정보처리기사
+* 2026.03 : SQLD
+* 2026.03 : ADsP
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,aws,gcp,azure" />
-</div>
+<h3 align="left">Awards</h3>
 
-<br><br>
+* 2021.12 : 대학생 창의력 경진대회 장려상
+* 2025.07 : IT 연합동아리(It’s Time) 모캠프 최종 프로젝트 대상
+* 2026.09 : 인천대학교 캡스톤디자인 졸업작품 대상
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,notion,figma,vscode" />
-</div>
+<h3 align="left">Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,jest" />
 
-<br><br>
+<h3 align="left">Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,hibernate,mysql,nodejs,express,mongodb" />
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@rehyun10_03/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-  <a href="mailto:guswogus81@naver.com">
-    <img src="https://img.shields.io/badge/guswogus81@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-</div>
+<h3 align="left">DevOps</h3>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx,prometheus,grafana,gcp" />
 
-<br><br>
+<h3 align="left">Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion,figma" />
